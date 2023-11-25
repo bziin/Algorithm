@@ -1,3 +1,5 @@
+#자릿수의 합#
+
 def digit_sum(x):
     sum=0
     while x>0:
