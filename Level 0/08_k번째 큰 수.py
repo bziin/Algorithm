@@ -1,5 +1,7 @@
 #k번째 큰 수#
 
+----
+
 n, k=map(int, input().split())
 a=list(map(int, input().split()))
 res=set()
